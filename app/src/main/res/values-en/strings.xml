@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quentin</string>
+    <string name="auteur">LEBRETON Quentin</string>
+    <string name="annee">2021</string>
+    <string name="button_hisory">Dragon Radar\'s historical</string>
+</resources>

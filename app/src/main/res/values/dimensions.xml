@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_logo">230dp</dimen>
+    <dimen name="size_gps">150dp</dimen>
+    <dimen name="button_h">50dp</dimen>
+    <dimen name="button_w">700dp</dimen>
+</resources>

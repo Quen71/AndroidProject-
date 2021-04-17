@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Quentin</string>
+    <string name="auteur">LEBRETON Quentin</string>
+    <string name="annee">2021</string>
+    <string name="button_hisory">Historique du Dragon Radar</string>
+
 </resources>
