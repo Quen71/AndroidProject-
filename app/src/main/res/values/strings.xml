@@ -1,7 +1,29 @@
 <resources>
-    <string name="app_name">Quentin</string>
+    <string name="app_name">DRAGON RADAR</string>
     <string name="auteur">LEBRETON Quentin</string>
     <string name="annee">2021</string>
     <string name="button_hisory">Historique du Dragon Radar</string>
+    <string name="dragon_radar">Clique sur le Dragon Radar</string>
+    <string name="location_dist">Déterminons la distance de la prochaine Dragon Ball !</string>
+    <string name="bulma_speech_1">"Wow ! À "</string>
+    <string name="bulma_speech_2">" km de la prochaine Dragon Ball !"</string>
+    <string name="button_history">Sauvegarder la positon de la DB !</string>
+    <string name="toast_no_history">Pas de données dans l\'historique</string>
+    <string name="parameter_up">PARAMÈTRES</string>
+    <string name="parameter_low">Paramètres de l\'application</string>
+    <string name="informations">Informations</string>
+    <string name="eseo_map">Maps ESEO</string>
+    <string name="eseo_website">Site de l\'ESEO</string>
+    <string name="contact">Nous contacter</string>
+    <string name="clear_history">Effacer l\'historique</string>
+    <string name="mail_adr" translatable="false">mailto: quentinlbt99@gmail.com</string>
+    <string name="mail_subject">Contactez nous !</string>
+    <string name="mail_extra" translatable="false">DB radar</string>
+    <string name="eseo_url" translatable="false">https://eseo.fr/</string>
+    <string name="coord_eseo" translatable="false">geo:47.49321944206325, -0.5513440938317259</string>
+    <string name="history">HISTORIQUE</string>
+    <string name="no_location">Localisation impossible</string>
+    <string name="history_cleared">Historique de localisation effacé !</string>
+
 
 </resources>

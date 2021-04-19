@@ -4,4 +4,8 @@
     <dimen name="size_gps">150dp</dimen>
     <dimen name="button_h">50dp</dimen>
     <dimen name="button_w">700dp</dimen>
+    <dimen name="recycler_h">30sp</dimen>
+    <dimen name="recycler_font_H">16sp</dimen>
+    <dimen name="size_bulma">330dp</dimen>
+    <dimen name="size_titre1">23sp</dimen>
 </resources>

@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Quentin</string>
+    <string name="app_name">DRAGON RADAR</string>
     <string name="auteur">LEBRETON Quentin</string>
     <string name="annee">2021</string>
     <string name="button_hisory">Dragon Radar\'s historical</string>
+    <string name="dragon_radar">Click on the Dragon Radar</string>
+    <string name="location_dist">Find the distance to the next Dragon Ball !</string>
+    <string name="bulma_speech_1">"Wow ! At "</string>
+    <string name="bulma_speech_2">" km from the next Dragon Ball !"</string>
+    <string name="button_history">Save the DB position !</string>
+    <string name="toast_no_history">No data in history</string>
+    <string name="parameter_up">SETTINGS</string>
+    <string name="parameter_low">App settings</string>
+    <string name="informations">Informations</string>
+    <string name="eseo_map">ESEO Maps</string>
+    <string name="eseo_website">ESEO website</string>
+    <string name="contact">Contact us</string>
+    <string name="clear_history">Clear history</string>
+    <string name="mail_subject">Contact us !</string>
+    <string name="history">HISTORY</string>
+    <string name="no_location">Impossible to localize</string>
+    <string name="history_cleared">Location history deleted !</string>
 </resources>
